@@ -1,0 +1,8 @@
+# Robot Framework output files
+output.xml
+log.html
+report.html
+
+# Python cache
+__pycache__/
+*.pyc
